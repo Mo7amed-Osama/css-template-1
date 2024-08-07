@@ -369,6 +369,17 @@ header .container .links ul :not(:last-child) {
     }
 
  }
+ @media (max-width: 700px) 
+ {
+    .contact .text h3 {
+        font-size: 25px;
+    }
+    .contact .text .mail {
+        font-size: 25px;
+    }
+
+ }
+
  /* end contact */
 
  /* start footer */
